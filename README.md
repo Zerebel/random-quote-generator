@@ -1,4 +1,3 @@
-
 <h1 align="center">Random Quote Generator🚀</h1>
 
 <div align="center">
@@ -7,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://zerebel-windbnb.netlify.app/">
+    <a href="https://zerebel.github.io/random-quote-generator/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/CZ1kFrzYHyWkFb9OLu9N">
+    <a href="https://devchallenges.io/solutions/1KIK2yR1IS3UgIqmYTFQ">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD">
+    <a href="https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8">
       Challenge
     </a>
   </h3>
@@ -36,7 +35,7 @@
 
 ## Overview
 
-![screenshot](assets/screenshot.png)
+![screenshot](Screenshot.png)
 
 ### Built With
 
@@ -50,7 +49,7 @@
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8) was to build an application to complete the given user stories.
 
 ## How To Use
 
